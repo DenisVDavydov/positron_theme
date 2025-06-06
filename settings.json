@@ -34,7 +34,7 @@
   "window.density.editorTabHeight": "compact",
   "editor.accessibilitySupport": "off",
   "symbols.hidesExplorerArrows": true,
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "catppuccin-macchiato",
   "workbench.activityBar.location": "default",
   "workbench.layoutControl.enabled": true,
   "workbench.editor.editorActionsLocation": "default",
