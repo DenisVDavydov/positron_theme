@@ -112,6 +112,10 @@
   "breadcrumbs.icons": true,
   "breadcrumbs.showFields": true,
   "breadcrumbs.showBooleans": true,
+  // Настройки для R (Air — это форматировщик R и языковой сервер, написанный на Rust)
+  "[r]": {
+    "editor.formatOnSave": true
+  },
   // Настройки проверки орфографии
   "cSpell.language": "en,ru",
   "cSpell.enabled": true,
